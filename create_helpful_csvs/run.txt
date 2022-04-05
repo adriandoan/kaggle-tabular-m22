@@ -1,0 +1,28 @@
+run create_mondays to create only_mondays.csv which is data
+from only Mondays after 12:00 PM (may need to delete last empty line)
+
+run create_submission to correctly create a submission file with
+all congestions set to 0 (may need to delete last empty line)
+
+run average_mondays to take the average of all monday afternoon
+congestions at the corresponding locations and directions 
+
+remove outliers and run
+
+april 29
+may 27
+july 22
+september 2
+
+
+july 29
+may 27
+april 1
+may 20
+august 5
+august 12
+august 19
+august 26
+september 2
+september 23
+
